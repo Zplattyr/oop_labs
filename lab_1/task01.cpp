@@ -1,13 +1,19 @@
 #include <iostream>
-#include "closest_pair_tonum.h"
+#include "box_capacity.h"
 
 int main()
 {
-  int border;
-  std::cout << "enter border: ";
-  std::cin  >> border;
+  double feet_lenght;
+  double feet_width;
+  double feet_height;
+  std::cout << "enter lenght in feet: ";
+  std::cin  >> feet_lenght;
+  std::cout << "enter width in feet: ";
+  std::cin  >> feet_width;
+  std::cout << "enter height in feet: ";
+  std::cin  >> feet_height;
 
-  std::string result = closest_pair_tonum(border);
+  unsigned int result = box_capacity(feet_lenght, feet_width, feet_height);
 
 
   std::cout << "result: " << result << std::endl;

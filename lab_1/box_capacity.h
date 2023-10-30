@@ -2,4 +2,5 @@
 
 #include <string>
 
-std::string closest_pair_tonum(int);
+unsigned int box_capacity(double, double, double);
+
