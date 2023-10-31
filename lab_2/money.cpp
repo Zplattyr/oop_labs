@@ -84,10 +84,11 @@ Money::~Money() noexcept {
 
 bool Money::operator> (const Money &other) const {
     if (this->_isNegative && !other._isNegative) return false;
-    if (!this->_isNegative && other._isNegative) return true;
-    if (!this->_isNegative && !other._isNegative) {
+    else if (!this->_isNegative && other._isNegative) return true;
+    else if (!this->_isNegative && !other._isNegative) {
         if (this->_size > other._size) return true;
-        else if (this->_size == other._size) {
+        else if (this->_size < other._size) return false;
+        else {
             for (int i = this->_size - 1; i >= 0; i--) {
                 if (this->_array[i] > other._array[i]) return true;
                 if (this->_array[i] < other._array[i]) return false;
@@ -95,7 +96,8 @@ bool Money::operator> (const Money &other) const {
         }
     } else {
         if (this->_size > other._size) return false;
-        else if (this->_size == other._size) {
+        else if (this->_size < other._size) return true;
+        else {
             for (int i = this->_size - 1; i >= 0; i--) {
                 if (this->_array[i] > other._array[i]) return false;
                 if (this->_array[i] < other._array[i]) return true;

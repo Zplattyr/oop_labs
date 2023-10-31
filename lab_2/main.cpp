@@ -4,11 +4,6 @@
 using namespace std;
 
 int main() {
-    Money empt;
-    cout << empt << "There is must be nothing!" << endl;
-
-    Money a(5, 4);
-    cout << a << endl;
     string str1;
     string str2;
     while (true) {
