@@ -9,7 +9,7 @@ char ToChar(unsigned char c) {
 }
 
 bool Money::isDecimal (unsigned char c) const {
-    return (0 <= c && c <= 10);
+    return (0 <= c && c <= 9);
 }
 
 Money::Money() : _size(0), _array{nullptr} {}
