@@ -569,6 +569,32 @@ TEST(neg_add_n_ravno, test06) {
     ASSERT_TRUE (num1 == Money("19023"));
 }
 
+TEST(throw_test, test01)
+{
+    EXPECT_THROW(Money num1("A35"), std::invalid_argument);
+}
+
+TEST(throw_test, test02)
+{
+    EXPECT_THROW(Money num1("-A35"), std::invalid_argument);
+}
+
+TEST(throw_test, test03)
+{
+    EXPECT_THROW(Money num1("4C"), std::invalid_argument);
+}
+
+TEST(throw_test, test04)
+{
+    EXPECT_THROW(Money num1(4,20), std::invalid_argument);
+}
+
+TEST(throw_test, test05)
+{
+    EXPECT_THROW(Money num1(std::initializer_list<unsigned char>({1,2,30})), std::invalid_argument);
+}
+
+
 int main(int argc, char **argv) {
     testing::InitGoogleTest(&argc, argv);
     return RUN_ALL_TESTS();

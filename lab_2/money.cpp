@@ -1,11 +1,11 @@
 #include "money.h"
 
 unsigned char ToUnsChar(char c) {
-    return (c >= '0' && c <= '9') ? (unsigned char)(c - '0') : (unsigned char)(c - 'a' + 10);
+    return (unsigned char)(c - '0');
 }
 
 char ToChar(unsigned char c) {
-    return (0 <= c && c <= 9) ? (char)(c + '0') : (char)(c + 'a' - 10);
+    return (char)(c + '0');
 }
 
 bool Money::isDecimal (unsigned char c) const {
@@ -19,7 +19,11 @@ Money::Money(const size_t &n, unsigned char t) {
     _size = n;
     for (int i = n - 1; i >= 0; --i) {
         if (isDecimal(t)) _array[i] = t;
-        else throw std::invalid_argument("Fill constructor: symbol is not in correct place");
+        else {
+            delete[] _array;
+            _array = nullptr;
+            throw std::invalid_argument("Init list constructor: symbol is not in correct place");
+        }
     }   
 }
 
@@ -29,7 +33,11 @@ Money::Money(const std::initializer_list<unsigned char> &t) {
     size_t i{t.size() - 1};
     for (auto c : t) {
         if (isDecimal(c)) _array[i--] = c;
-        else throw std::invalid_argument("Init list constructor: symbol is not in correct place");
+        else {
+            delete[] _array;
+            _array = nullptr;
+            throw std::invalid_argument("Init list constructor: symbol is not in correct place");
+        }
     }
 }
 
@@ -51,13 +59,18 @@ Money::Money(const std::string &str) {
             _array[i] = ToUnsChar(str[ind]);
             ind++;
         } 
-        else std::invalid_argument("Copy string constructor: symbol is not in correct place");
+        else {
+            delete[] _array;
+            _array = nullptr;
+            throw std::invalid_argument("Init list constructor: symbol is not in correct place");
+        }
     }
 }
 
 
 Money::Money(const Money &other) {
     _size  = other._size;
+    delete[] _array;
     _array = new unsigned char[_size];
     _isNegative = other._isNegative;
 
@@ -73,7 +86,6 @@ Money::Money(Money &&other) noexcept {
     delete[] other._array;
     other._array = nullptr;
 }
-
 
 Money::~Money() noexcept {
     if (_size > 0) {
