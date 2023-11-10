@@ -70,6 +70,7 @@ Money::Money(Money &&other) noexcept {
     _isNegative = other._isNegative;
 
     other._size = 0;
+    delete[] other._array;
     other._array = nullptr;
 }
 
