@@ -15,6 +15,5 @@ public :
 protected :
     double calcArea() const override;
     bool equals(const Figure& other) const override;
-    void constructFig(point &dot, double multiply);
     void check() const override;
 };

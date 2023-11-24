@@ -34,6 +34,12 @@ Pentagon& Pentagon::operator=(Pentagon&& other)
     return *this;
 }
 
+bool Pentagon::equals(const Figure& other) const {
+    double a = distance(arr[0], arr[1]);
+    double b = distance(other.arr[0], other.arr[1]);
+    return dbEqual(a,b);
+}
+
 void Pentagon::check() const
 {
     if ((!(Figure::trueFigCheck(this->size())) || (this->calcArea() == 0))) throw std::underflow_error("This is not PENTAGON");

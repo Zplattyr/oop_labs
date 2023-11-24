@@ -760,6 +760,29 @@ TEST(TRAPEZOID, WrongDots)
     EXPECT_THROW(Trapezoid A({b0, b1, b2, b3}), std::underflow_error);
 }
 
+TEST(TRAPEZOID, WrongDots2)
+{
+    point b0, b1, b2, b3;
+    b0 = point{1,2};
+    b1 = point{3,2};
+    b2 = point{4,0};
+    b3 = point{0,0};
+    b0.y += 1;
+
+    EXPECT_THROW(Trapezoid A({b0, b1, b2, b3}), std::underflow_error);
+}
+
+TEST(TRAPEZOID, WrongDots3)
+{
+    point b0, b1, b2, b3;
+    b0 = point{1,2};
+    b1 = point{1,2};
+    b2 = point{3,0};
+    b3 = point{0,0};
+
+    EXPECT_THROW(Trapezoid A({b0, b1, b2, b3}), std::underflow_error);
+}
+
 TEST(TRAPEZOID, tag)
 {
     point b0, b1, b2, b3;
