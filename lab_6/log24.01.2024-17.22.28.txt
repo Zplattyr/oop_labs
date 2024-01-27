@@ -1,0 +1,840 @@
+
+-------- Battle started --------
+There are 18 fighters.
+| x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+| x = 208, y = 395 | alive | Dragon | Роберт Кровавый
+| x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+| x = 380, y = 192 | alive | Knight | Роберт Безумный
+| x = 277, y = 402 | alive | Dragon | Бернард Жадный
+| x = 382, y = 439 | alive | Dragon | Карл Белый
+| x = 493, y = 46 | alive | Princess | Уильям Хитрый
+| x = 92, y = 462 | alive | Dragon | Вильгельм Милостивый
+| x = 401, y = 93 | alive | Dragon | Ян Меткий
+| x = 135, y = 24 | alive | Dragon | Уильям Кровавый
+| x = 310, y = 212 | alive | Princess | Карл Мудрый
+| x = 380, y = 473 | alive | Princess | Феофан Удачливый
+| x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+| x = 344, y = 424 | alive | Princess | Феофан Мудрый
+| x = 491, y = 388 | alive | Princess | Ричард Безумный
+| x = 396, y = 183 | alive | Princess | Вальтер Мудрый
+| x = 261, y = 313 | alive | Princess | Филипп Безумный
+| x = 407, y = 167 | alive | Princess | Уолтер Смелый
+
+
+Murder --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 208, y = 395 | dead | Dragon | Роберт Кровавый
+
+
+Failed attack attempt --------
+Attacker: | x = 208, y = 395 | dead | Dragon | Роберт Кровавый
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Murder --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 277, y = 402 | dead | Dragon | Бернард Жадный
+
+
+Failed attack attempt --------
+Attacker: | x = 277, y = 402 | dead | Dragon | Бернард Жадный
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 396, y = 183 | alive | Princess | Вальтер Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 396, y = 183 | alive | Princess | Вальтер Мудрый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 407, y = 167 | alive | Princess | Уолтер Смелый
+
+
+Failed attack attempt --------
+Attacker: | x = 407, y = 167 | alive | Princess | Уолтер Смелый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Murder --------
+Attacker: | x = 382, y = 439 | alive | Dragon | Карл Белый
+Defender: | x = 380, y = 473 | dead | Princess | Феофан Удачливый
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 473 | dead | Princess | Феофан Удачливый
+Defender: | x = 382, y = 439 | alive | Dragon | Карл Белый
+
+
+Murder --------
+Attacker: | x = 382, y = 439 | alive | Dragon | Карл Белый
+Defender: | x = 344, y = 424 | dead | Princess | Феофан Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 344, y = 424 | dead | Princess | Феофан Мудрый
+Defender: | x = 382, y = 439 | alive | Dragon | Карл Белый
+
+
+Failed attack attempt --------
+Attacker: | x = 396, y = 183 | alive | Princess | Вальтер Мудрый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 396, y = 183 | alive | Princess | Вальтер Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 396, y = 183 | alive | Princess | Вальтер Мудрый
+Defender: | x = 407, y = 167 | alive | Princess | Уолтер Смелый
+
+
+Failed attack attempt --------
+Attacker: | x = 407, y = 167 | alive | Princess | Уолтер Смелый
+Defender: | x = 396, y = 183 | alive | Princess | Вальтер Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 407, y = 167 | alive | Princess | Уолтер Смелый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 407, y = 167 | alive | Princess | Уолтер Смелый
+
+
+Failed attack attempt --------
+Attacker: | x = 407, y = 167 | alive | Princess | Уолтер Смелый
+Defender: | x = 396, y = 183 | alive | Princess | Вальтер Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 396, y = 183 | alive | Princess | Вальтер Мудрый
+Defender: | x = 407, y = 167 | alive | Princess | Уолтер Смелый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+
+
+Failed attack attempt --------
+Attacker: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Murder --------
+Attacker: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+Defender: | x = 382, y = 439 | dead | Dragon | Карл Белый
+
+
+Failed attack attempt --------
+Attacker: | x = 382, y = 439 | dead | Dragon | Карл Белый
+Defender: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+
+
+Failed attack attempt --------
+Attacker: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+Defender: | x = 491, y = 388 | alive | Princess | Ричард Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 491, y = 388 | alive | Princess | Ричард Безумный
+Defender: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 396, y = 183 | alive | Princess | Вальтер Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 396, y = 183 | alive | Princess | Вальтер Мудрый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 407, y = 167 | alive | Princess | Уолтер Смелый
+
+
+Failed attack attempt --------
+Attacker: | x = 407, y = 167 | alive | Princess | Уолтер Смелый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Murder --------
+Attacker: | x = 401, y = 93 | alive | Dragon | Ян Меткий
+Defender: | x = 396, y = 183 | dead | Princess | Вальтер Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 396, y = 183 | dead | Princess | Вальтер Мудрый
+Defender: | x = 401, y = 93 | alive | Dragon | Ян Меткий
+
+
+Murder --------
+Attacker: | x = 401, y = 93 | alive | Dragon | Ян Меткий
+Defender: | x = 407, y = 167 | dead | Princess | Уолтер Смелый
+
+
+Failed attack attempt --------
+Attacker: | x = 407, y = 167 | dead | Princess | Уолтер Смелый
+Defender: | x = 401, y = 93 | alive | Dragon | Ян Меткий
+
+
+Failed attack attempt --------
+Attacker: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+
+
+Failed attack attempt --------
+Attacker: | x = 491, y = 388 | alive | Princess | Ричард Безумный
+Defender: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+
+
+Failed attack attempt --------
+Attacker: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+Defender: | x = 491, y = 388 | alive | Princess | Ричард Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+
+
+Failed attack attempt --------
+Attacker: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Murder --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 92, y = 462 | dead | Dragon | Вильгельм Милостивый
+
+
+Failed attack attempt --------
+Attacker: | x = 92, y = 462 | dead | Dragon | Вильгельм Милостивый
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+
+
+Failed attack attempt --------
+Attacker: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+
+
+Failed attack attempt --------
+Attacker: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+Defender: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+
+
+Failed attack attempt --------
+Attacker: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+Defender: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+
+
+Failed attack attempt --------
+Attacker: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+Defender: | x = 491, y = 388 | alive | Princess | Ричард Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 491, y = 388 | alive | Princess | Ричард Безумный
+Defender: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 493, y = 46 | alive | Princess | Уильям Хитрый
+
+
+Failed attack attempt --------
+Attacker: | x = 493, y = 46 | alive | Princess | Уильям Хитрый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Murder --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 401, y = 93 | dead | Dragon | Ян Меткий
+
+
+Failed attack attempt --------
+Attacker: | x = 401, y = 93 | dead | Dragon | Ян Меткий
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 493, y = 46 | alive | Princess | Уильям Хитрый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 493, y = 46 | alive | Princess | Уильям Хитрый
+
+
+Failed attack attempt --------
+Attacker: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+
+
+Failed attack attempt --------
+Attacker: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+Defender: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+
+
+Failed attack attempt --------
+Attacker: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+Defender: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+
+
+Failed attack attempt --------
+Attacker: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+
+
+Failed attack attempt --------
+Attacker: | x = 491, y = 388 | alive | Princess | Ричард Безумный
+Defender: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+
+
+Failed attack attempt --------
+Attacker: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+Defender: | x = 491, y = 388 | alive | Princess | Ричард Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+
+
+Failed attack attempt --------
+Attacker: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+-------- Battle ended --------
+There was 18 fighters.
+| x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+| x = 208, y = 395 | dead | Dragon | Роберт Кровавый
+| x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+| x = 380, y = 192 | alive | Knight | Роберт Безумный
+| x = 277, y = 402 | dead | Dragon | Бернард Жадный
+| x = 382, y = 439 | dead | Dragon | Карл Белый
+| x = 493, y = 46 | alive | Princess | Уильям Хитрый
+| x = 92, y = 462 | dead | Dragon | Вильгельм Милостивый
+| x = 401, y = 93 | dead | Dragon | Ян Меткий
+| x = 135, y = 24 | alive | Dragon | Уильям Кровавый
+| x = 310, y = 212 | alive | Princess | Карл Мудрый
+| x = 380, y = 473 | dead | Princess | Феофан Удачливый
+| x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+| x = 344, y = 424 | dead | Princess | Феофан Мудрый
+| x = 491, y = 388 | alive | Princess | Ричард Безумный
+| x = 396, y = 183 | dead | Princess | Вальтер Мудрый
+| x = 261, y = 313 | alive | Princess | Филипп Безумный
+| x = 407, y = 167 | dead | Princess | Уолтер Смелый
+
+
+-------- Battle started --------
+There are 9 fighters.
+| x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+| x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+| x = 380, y = 192 | alive | Knight | Роберт Безумный
+| x = 493, y = 46 | alive | Princess | Уильям Хитрый
+| x = 135, y = 24 | alive | Dragon | Уильям Кровавый
+| x = 310, y = 212 | alive | Princess | Карл Мудрый
+| x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+| x = 491, y = 388 | alive | Princess | Ричард Безумный
+| x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+
+
+Failed attack attempt --------
+Attacker: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+Defender: | x = 491, y = 388 | alive | Princess | Ричард Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 491, y = 388 | alive | Princess | Ричард Безумный
+Defender: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+
+
+Failed attack attempt --------
+Attacker: | x = 491, y = 388 | alive | Princess | Ричард Безумный
+Defender: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+
+
+Failed attack attempt --------
+Attacker: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+Defender: | x = 491, y = 388 | alive | Princess | Ричард Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+
+
+Failed attack attempt --------
+Attacker: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+
+
+Failed attack attempt --------
+Attacker: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+
+
+Failed attack attempt --------
+Attacker: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+Defender: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+
+
+Failed attack attempt --------
+Attacker: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+Defender: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+
+
+Failed attack attempt --------
+Attacker: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+Defender: | x = 491, y = 388 | alive | Princess | Ричард Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 491, y = 388 | alive | Princess | Ричард Безумный
+Defender: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 493, y = 46 | alive | Princess | Уильям Хитрый
+
+
+Failed attack attempt --------
+Attacker: | x = 493, y = 46 | alive | Princess | Уильям Хитрый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 493, y = 46 | alive | Princess | Уильям Хитрый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 493, y = 46 | alive | Princess | Уильям Хитрый
+
+
+Failed attack attempt --------
+Attacker: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+
+
+Failed attack attempt --------
+Attacker: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+Defender: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+
+
+Failed attack attempt --------
+Attacker: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+Defender: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+
+
+Failed attack attempt --------
+Attacker: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+
+
+Failed attack attempt --------
+Attacker: | x = 491, y = 388 | alive | Princess | Ричард Безумный
+Defender: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+
+
+Failed attack attempt --------
+Attacker: | x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+Defender: | x = 491, y = 388 | alive | Princess | Ричард Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 380, y = 192 | alive | Knight | Роберт Безумный
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+
+
+Failed attack attempt --------
+Attacker: | x = 310, y = 212 | alive | Princess | Карл Мудрый
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+Failed attack attempt --------
+Attacker: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+Defender: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+
+
+Failed attack attempt --------
+Attacker: | x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+Defender: | x = 261, y = 313 | alive | Princess | Филипп Безумный
+
+
+-------- Battle ended --------
+There was 9 fighters.
+| x = 257, y = 386 | alive | Knight | Арнульф Мудрый
+| x = 442, y = 426 | alive | Knight | Бенедикт Коварный
+| x = 380, y = 192 | alive | Knight | Роберт Безумный
+| x = 493, y = 46 | alive | Princess | Уильям Хитрый
+| x = 135, y = 24 | alive | Dragon | Уильям Кровавый
+| x = 310, y = 212 | alive | Princess | Карл Мудрый
+| x = 279, y = 446 | alive | Princess | Вильгельм Милостивый
+| x = 491, y = 388 | alive | Princess | Ричард Безумный
+| x = 261, y = 313 | alive | Princess | Филипп Безумный
+

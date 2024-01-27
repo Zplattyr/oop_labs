@@ -1,0 +1,1446 @@
+
+-------- Battle started --------
+There are 18 fighters.
+| x = 489, y = 363 | alive | Princess | Лорена
+| x = 49, y = 214 | alive | Dragon | Вулкан
+| x = 491, y = 133 | alive | Dragon | Фаэр
+| x = 116, y = 61 | alive | Dragon | Лунтик
+| x = 52, y = 6 | alive | Dragon | Скай
+| x = 257, y = 269 | alive | Princess | Алисия
+| x = 151, y = 57 | alive | Dragon | Изерион
+| x = 138, y = 24 | alive | Princess | Катерина
+| x = 416, y = 245 | alive | Princess | Александра
+| x = 90, y = 128 | alive | Princess | Лорена
+| x = 72, y = 269 | alive | Dragon | Лунтик
+| x = 399, y = 252 | alive | Knight | Гарет
+| x = 206, y = 368 | alive | Princess | Николь
+| x = 325, y = 323 | alive | Knight | Гавейн
+| x = 106, y = 298 | alive | Knight | Бедивер
+| x = 399, y = 206 | alive | Princess | Изабелла
+| x = 367, y = 426 | alive | Princess | Изабелла
+| x = 463, y = 462 | alive | Princess | Виктория
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 151, y = 57 | alive | Dragon | Изерион
+
+
+Failed attack attempt --------
+Attacker: | x = 151, y = 57 | alive | Dragon | Изерион
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Murder --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 138, y = 24 | dead | Princess | Катерина
+
+
+Failed attack attempt --------
+Attacker: | x = 138, y = 24 | dead | Princess | Катерина
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 151, y = 57 | alive | Dragon | Изерион
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 151, y = 57 | alive | Dragon | Изерион
+
+
+Failed attack attempt --------
+Attacker: | x = 416, y = 245 | alive | Princess | Александра
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 416, y = 245 | alive | Princess | Александра
+
+
+Failed attack attempt --------
+Attacker: | x = 416, y = 245 | alive | Princess | Александра
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 416, y = 245 | alive | Princess | Александра
+
+
+Failed attack attempt --------
+Attacker: | x = 72, y = 269 | alive | Dragon | Лунтик
+Defender: | x = 106, y = 298 | alive | Knight | Бедивер
+
+
+Murder --------
+Attacker: | x = 106, y = 298 | alive | Knight | Бедивер
+Defender: | x = 72, y = 269 | dead | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 416, y = 245 | alive | Princess | Александра
+
+
+Failed attack attempt --------
+Attacker: | x = 416, y = 245 | alive | Princess | Александра
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 416, y = 245 | alive | Princess | Александра
+
+
+Failed attack attempt --------
+Attacker: | x = 416, y = 245 | alive | Princess | Александра
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Murder --------
+Attacker: | x = 49, y = 214 | alive | Dragon | Вулкан
+Defender: | x = 90, y = 128 | dead | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 90, y = 128 | dead | Princess | Лорена
+Defender: | x = 49, y = 214 | alive | Dragon | Вулкан
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 52, y = 6 | alive | Dragon | Скай
+
+
+Failed attack attempt --------
+Attacker: | x = 52, y = 6 | alive | Dragon | Скай
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 151, y = 57 | alive | Dragon | Изерион
+
+
+Failed attack attempt --------
+Attacker: | x = 151, y = 57 | alive | Dragon | Изерион
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 52, y = 6 | alive | Dragon | Скай
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 52, y = 6 | alive | Dragon | Скай
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 151, y = 57 | alive | Dragon | Изерион
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 151, y = 57 | alive | Dragon | Изерион
+
+
+Failed attack attempt --------
+Attacker: | x = 416, y = 245 | alive | Princess | Александра
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 416, y = 245 | alive | Princess | Александра
+
+
+Failed attack attempt --------
+Attacker: | x = 416, y = 245 | alive | Princess | Александра
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 416, y = 245 | alive | Princess | Александра
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 416, y = 245 | alive | Princess | Александра
+
+
+Failed attack attempt --------
+Attacker: | x = 416, y = 245 | alive | Princess | Александра
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 416, y = 245 | alive | Princess | Александра
+
+
+Failed attack attempt --------
+Attacker: | x = 416, y = 245 | alive | Princess | Александра
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 416, y = 245 | alive | Princess | Александра
+
+
+Failed attack attempt --------
+Attacker: | x = 416, y = 245 | alive | Princess | Александра
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 463, y = 462 | alive | Princess | Виктория
+
+
+Failed attack attempt --------
+Attacker: | x = 463, y = 462 | alive | Princess | Виктория
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 49, y = 214 | alive | Dragon | Вулкан
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 49, y = 214 | alive | Dragon | Вулкан
+
+
+Failed attack attempt --------
+Attacker: | x = 49, y = 214 | alive | Dragon | Вулкан
+Defender: | x = 151, y = 57 | alive | Dragon | Изерион
+
+
+Failed attack attempt --------
+Attacker: | x = 151, y = 57 | alive | Dragon | Изерион
+Defender: | x = 49, y = 214 | alive | Dragon | Вулкан
+
+
+Failed attack attempt --------
+Attacker: | x = 49, y = 214 | alive | Dragon | Вулкан
+Defender: | x = 106, y = 298 | alive | Knight | Бедивер
+
+
+Murder --------
+Attacker: | x = 106, y = 298 | alive | Knight | Бедивер
+Defender: | x = 49, y = 214 | dead | Dragon | Вулкан
+
+
+Murder --------
+Attacker: | x = 491, y = 133 | alive | Dragon | Фаэр
+Defender: | x = 416, y = 245 | dead | Princess | Александра
+
+
+Failed attack attempt --------
+Attacker: | x = 416, y = 245 | dead | Princess | Александра
+Defender: | x = 491, y = 133 | alive | Dragon | Фаэр
+
+
+Failed attack attempt --------
+Attacker: | x = 491, y = 133 | alive | Dragon | Фаэр
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Murder --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 491, y = 133 | dead | Dragon | Фаэр
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 52, y = 6 | alive | Dragon | Скай
+
+
+Failed attack attempt --------
+Attacker: | x = 52, y = 6 | alive | Dragon | Скай
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 151, y = 57 | alive | Dragon | Изерион
+
+
+Failed attack attempt --------
+Attacker: | x = 151, y = 57 | alive | Dragon | Изерион
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 52, y = 6 | alive | Dragon | Скай
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 52, y = 6 | alive | Dragon | Скай
+
+
+Failed attack attempt --------
+Attacker: | x = 52, y = 6 | alive | Dragon | Скай
+Defender: | x = 151, y = 57 | alive | Dragon | Изерион
+
+
+Failed attack attempt --------
+Attacker: | x = 151, y = 57 | alive | Dragon | Изерион
+Defender: | x = 52, y = 6 | alive | Dragon | Скай
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 206, y = 368 | alive | Princess | Николь
+
+
+Failed attack attempt --------
+Attacker: | x = 206, y = 368 | alive | Princess | Николь
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 106, y = 298 | alive | Knight | Бедивер
+
+
+Failed attack attempt --------
+Attacker: | x = 106, y = 298 | alive | Knight | Бедивер
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 151, y = 57 | alive | Dragon | Изерион
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 151, y = 57 | alive | Dragon | Изерион
+
+
+Failed attack attempt --------
+Attacker: | x = 151, y = 57 | alive | Dragon | Изерион
+Defender: | x = 52, y = 6 | alive | Dragon | Скай
+
+
+Failed attack attempt --------
+Attacker: | x = 52, y = 6 | alive | Dragon | Скай
+Defender: | x = 151, y = 57 | alive | Dragon | Изерион
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 206, y = 368 | alive | Princess | Николь
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 206, y = 368 | alive | Princess | Николь
+
+
+Failed attack attempt --------
+Attacker: | x = 206, y = 368 | alive | Princess | Николь
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 206, y = 368 | alive | Princess | Николь
+
+
+Failed attack attempt --------
+Attacker: | x = 206, y = 368 | alive | Princess | Николь
+Defender: | x = 106, y = 298 | alive | Knight | Бедивер
+
+
+Failed attack attempt --------
+Attacker: | x = 106, y = 298 | alive | Knight | Бедивер
+Defender: | x = 206, y = 368 | alive | Princess | Николь
+
+
+Failed attack attempt --------
+Attacker: | x = 206, y = 368 | alive | Princess | Николь
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 206, y = 368 | alive | Princess | Николь
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 206, y = 368 | alive | Princess | Николь
+
+
+Failed attack attempt --------
+Attacker: | x = 206, y = 368 | alive | Princess | Николь
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 463, y = 462 | alive | Princess | Виктория
+
+
+Failed attack attempt --------
+Attacker: | x = 463, y = 462 | alive | Princess | Виктория
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 106, y = 298 | alive | Knight | Бедивер
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 106, y = 298 | alive | Knight | Бедивер
+
+
+Failed attack attempt --------
+Attacker: | x = 106, y = 298 | alive | Knight | Бедивер
+Defender: | x = 206, y = 368 | alive | Princess | Николь
+
+
+Failed attack attempt --------
+Attacker: | x = 206, y = 368 | alive | Princess | Николь
+Defender: | x = 106, y = 298 | alive | Knight | Бедивер
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 206, y = 368 | alive | Princess | Николь
+
+
+Failed attack attempt --------
+Attacker: | x = 206, y = 368 | alive | Princess | Николь
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 463, y = 462 | alive | Princess | Виктория
+
+
+Failed attack attempt --------
+Attacker: | x = 463, y = 462 | alive | Princess | Виктория
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 463, y = 462 | alive | Princess | Виктория
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 463, y = 462 | alive | Princess | Виктория
+
+
+Failed attack attempt --------
+Attacker: | x = 463, y = 462 | alive | Princess | Виктория
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 463, y = 462 | alive | Princess | Виктория
+
+
+Failed attack attempt --------
+Attacker: | x = 463, y = 462 | alive | Princess | Виктория
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 463, y = 462 | alive | Princess | Виктория
+
+
+-------- Battle ended --------
+There was 18 fighters.
+| x = 489, y = 363 | alive | Princess | Лорена
+| x = 49, y = 214 | dead | Dragon | Вулкан
+| x = 491, y = 133 | dead | Dragon | Фаэр
+| x = 116, y = 61 | alive | Dragon | Лунтик
+| x = 52, y = 6 | alive | Dragon | Скай
+| x = 257, y = 269 | alive | Princess | Алисия
+| x = 151, y = 57 | alive | Dragon | Изерион
+| x = 138, y = 24 | dead | Princess | Катерина
+| x = 416, y = 245 | dead | Princess | Александра
+| x = 90, y = 128 | dead | Princess | Лорена
+| x = 72, y = 269 | dead | Dragon | Лунтик
+| x = 399, y = 252 | alive | Knight | Гарет
+| x = 206, y = 368 | alive | Princess | Николь
+| x = 325, y = 323 | alive | Knight | Гавейн
+| x = 106, y = 298 | alive | Knight | Бедивер
+| x = 399, y = 206 | alive | Princess | Изабелла
+| x = 367, y = 426 | alive | Princess | Изабелла
+| x = 463, y = 462 | alive | Princess | Виктория
+
+
+-------- Battle started --------
+There are 12 fighters.
+| x = 489, y = 363 | alive | Princess | Лорена
+| x = 116, y = 61 | alive | Dragon | Лунтик
+| x = 52, y = 6 | alive | Dragon | Скай
+| x = 257, y = 269 | alive | Princess | Алисия
+| x = 151, y = 57 | alive | Dragon | Изерион
+| x = 399, y = 252 | alive | Knight | Гарет
+| x = 206, y = 368 | alive | Princess | Николь
+| x = 325, y = 323 | alive | Knight | Гавейн
+| x = 106, y = 298 | alive | Knight | Бедивер
+| x = 399, y = 206 | alive | Princess | Изабелла
+| x = 367, y = 426 | alive | Princess | Изабелла
+| x = 463, y = 462 | alive | Princess | Виктория
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 151, y = 57 | alive | Dragon | Изерион
+
+
+Failed attack attempt --------
+Attacker: | x = 151, y = 57 | alive | Dragon | Изерион
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 151, y = 57 | alive | Dragon | Изерион
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 151, y = 57 | alive | Dragon | Изерион
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 52, y = 6 | alive | Dragon | Скай
+
+
+Failed attack attempt --------
+Attacker: | x = 52, y = 6 | alive | Dragon | Скай
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 151, y = 57 | alive | Dragon | Изерион
+
+
+Failed attack attempt --------
+Attacker: | x = 151, y = 57 | alive | Dragon | Изерион
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 52, y = 6 | alive | Dragon | Скай
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 52, y = 6 | alive | Dragon | Скай
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 151, y = 57 | alive | Dragon | Изерион
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 151, y = 57 | alive | Dragon | Изерион
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 463, y = 462 | alive | Princess | Виктория
+
+
+Failed attack attempt --------
+Attacker: | x = 463, y = 462 | alive | Princess | Виктория
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 52, y = 6 | alive | Dragon | Скай
+
+
+Failed attack attempt --------
+Attacker: | x = 52, y = 6 | alive | Dragon | Скай
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 151, y = 57 | alive | Dragon | Изерион
+
+
+Failed attack attempt --------
+Attacker: | x = 151, y = 57 | alive | Dragon | Изерион
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 52, y = 6 | alive | Dragon | Скай
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 52, y = 6 | alive | Dragon | Скай
+
+
+Failed attack attempt --------
+Attacker: | x = 52, y = 6 | alive | Dragon | Скай
+Defender: | x = 151, y = 57 | alive | Dragon | Изерион
+
+
+Failed attack attempt --------
+Attacker: | x = 151, y = 57 | alive | Dragon | Изерион
+Defender: | x = 52, y = 6 | alive | Dragon | Скай
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 206, y = 368 | alive | Princess | Николь
+
+
+Failed attack attempt --------
+Attacker: | x = 206, y = 368 | alive | Princess | Николь
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 106, y = 298 | alive | Knight | Бедивер
+
+
+Failed attack attempt --------
+Attacker: | x = 106, y = 298 | alive | Knight | Бедивер
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 151, y = 57 | alive | Dragon | Изерион
+Defender: | x = 116, y = 61 | alive | Dragon | Лунтик
+
+
+Failed attack attempt --------
+Attacker: | x = 116, y = 61 | alive | Dragon | Лунтик
+Defender: | x = 151, y = 57 | alive | Dragon | Изерион
+
+
+Failed attack attempt --------
+Attacker: | x = 151, y = 57 | alive | Dragon | Изерион
+Defender: | x = 52, y = 6 | alive | Dragon | Скай
+
+
+Failed attack attempt --------
+Attacker: | x = 52, y = 6 | alive | Dragon | Скай
+Defender: | x = 151, y = 57 | alive | Dragon | Изерион
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 206, y = 368 | alive | Princess | Николь
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 206, y = 368 | alive | Princess | Николь
+
+
+Failed attack attempt --------
+Attacker: | x = 206, y = 368 | alive | Princess | Николь
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 206, y = 368 | alive | Princess | Николь
+
+
+Failed attack attempt --------
+Attacker: | x = 206, y = 368 | alive | Princess | Николь
+Defender: | x = 106, y = 298 | alive | Knight | Бедивер
+
+
+Failed attack attempt --------
+Attacker: | x = 106, y = 298 | alive | Knight | Бедивер
+Defender: | x = 206, y = 368 | alive | Princess | Николь
+
+
+Failed attack attempt --------
+Attacker: | x = 206, y = 368 | alive | Princess | Николь
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 206, y = 368 | alive | Princess | Николь
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 206, y = 368 | alive | Princess | Николь
+
+
+Failed attack attempt --------
+Attacker: | x = 206, y = 368 | alive | Princess | Николь
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 463, y = 462 | alive | Princess | Виктория
+
+
+Failed attack attempt --------
+Attacker: | x = 463, y = 462 | alive | Princess | Виктория
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 106, y = 298 | alive | Knight | Бедивер
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 106, y = 298 | alive | Knight | Бедивер
+
+
+Failed attack attempt --------
+Attacker: | x = 106, y = 298 | alive | Knight | Бедивер
+Defender: | x = 206, y = 368 | alive | Princess | Николь
+
+
+Failed attack attempt --------
+Attacker: | x = 206, y = 368 | alive | Princess | Николь
+Defender: | x = 106, y = 298 | alive | Knight | Бедивер
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 206 | alive | Princess | Изабелла
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 399, y = 206 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 257, y = 269 | alive | Princess | Алисия
+
+
+Failed attack attempt --------
+Attacker: | x = 257, y = 269 | alive | Princess | Алисия
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 399, y = 252 | alive | Knight | Гарет
+
+
+Failed attack attempt --------
+Attacker: | x = 399, y = 252 | alive | Knight | Гарет
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 206, y = 368 | alive | Princess | Николь
+
+
+Failed attack attempt --------
+Attacker: | x = 206, y = 368 | alive | Princess | Николь
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 463, y = 462 | alive | Princess | Виктория
+
+
+Failed attack attempt --------
+Attacker: | x = 463, y = 462 | alive | Princess | Виктория
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 463, y = 462 | alive | Princess | Виктория
+Defender: | x = 489, y = 363 | alive | Princess | Лорена
+
+
+Failed attack attempt --------
+Attacker: | x = 489, y = 363 | alive | Princess | Лорена
+Defender: | x = 463, y = 462 | alive | Princess | Виктория
+
+
+Failed attack attempt --------
+Attacker: | x = 463, y = 462 | alive | Princess | Виктория
+Defender: | x = 325, y = 323 | alive | Knight | Гавейн
+
+
+Failed attack attempt --------
+Attacker: | x = 325, y = 323 | alive | Knight | Гавейн
+Defender: | x = 463, y = 462 | alive | Princess | Виктория
+
+
+Failed attack attempt --------
+Attacker: | x = 463, y = 462 | alive | Princess | Виктория
+Defender: | x = 367, y = 426 | alive | Princess | Изабелла
+
+
+Failed attack attempt --------
+Attacker: | x = 367, y = 426 | alive | Princess | Изабелла
+Defender: | x = 463, y = 462 | alive | Princess | Виктория
+
+
+-------- Battle ended --------
+There was 12 fighters.
+| x = 489, y = 363 | alive | Princess | Лорена
+| x = 116, y = 61 | alive | Dragon | Лунтик
+| x = 52, y = 6 | alive | Dragon | Скай
+| x = 257, y = 269 | alive | Princess | Алисия
+| x = 151, y = 57 | alive | Dragon | Изерион
+| x = 399, y = 252 | alive | Knight | Гарет
+| x = 206, y = 368 | alive | Princess | Николь
+| x = 325, y = 323 | alive | Knight | Гавейн
+| x = 106, y = 298 | alive | Knight | Бедивер
+| x = 399, y = 206 | alive | Princess | Изабелла
+| x = 367, y = 426 | alive | Princess | Изабелла
+| x = 463, y = 462 | alive | Princess | Виктория
+
