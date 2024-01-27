@@ -35,7 +35,6 @@ class NPC {
         std::string _name = "defaultName"; 
         TypeNPC _type = TypeNPC::UNKNOWN;
         point _coords{-1, -1};
-        int mobility = 0;
         bool alive = false;
         int _rangeAttack;
         int _rangeMove;

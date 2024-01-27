@@ -41,11 +41,6 @@ class Battlefield {
         void battle();
         void battle_old(size_t rounds, double distance);
     private:
-        struct checker{
-            std::string phase = "NULL";
-            std::map<std::string, bool> old_state;
-            std::map<std::string, bool> save_state;
-        };
 
         struct duel{
             std::shared_ptr<NPC> defender;
