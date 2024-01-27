@@ -99,7 +99,9 @@ void PoolAllocator<T>::deallocate(pointer ptr, size_type n) {
     if (ptr < &_pool[0] || ptr > &_pool[0] + POOL_SIZE) {
         throw std::logic_error("Allocator does not own this pointer");
     }
+    T* temp = ptr;
     for (int i = 0; i < n; i++) {
-        _free.push_back(ptr);
+        _free.push_back(temp);
+        temp += sizeof(T);
     }
 }
