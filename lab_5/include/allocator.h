@@ -25,6 +25,7 @@ class PoolAllocator {
 
         PoolAllocator();
         PoolAllocator(PoolAllocator &&other) noexcept;
+        ~PoolAllocator() noexcept;
 
         pointer allocate();
         pointer allocate(size_type n);
@@ -46,6 +47,7 @@ template <typename T>
 PoolAllocator<T>::PoolAllocator(){
     _pool = new T[POOL_SIZE];
     _free = std::list<T*>(POOL_SIZE);
+    _free_size = POOL_SIZE;
     size_t i = 0;
     for (auto& elem : _free) {
         elem = &_pool[i++];
@@ -118,4 +120,9 @@ void PoolAllocator<T>::deallocate(pointer ptr, size_type n) {
     }
 
     _free_size += n;
+}
+
+template <typename T>
+PoolAllocator<T>::~PoolAllocator() noexcept{
+    delete[] _pool;
 }
